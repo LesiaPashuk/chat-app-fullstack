@@ -92,4 +92,3 @@ git clone https://github.com/LesiaPashuk/chat-app-fullstack.git
 2. yarn install
 3. yarn start
 
-![Alt текст](C:\Users\alesy\Downloads\2025-08-06_14-20-57.png)
